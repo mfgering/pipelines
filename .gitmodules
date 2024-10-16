@@ -1,0 +1,3 @@
+[submodule "mfg/dawson_docs"]
+	path = mfg/dawson_docs
+	url = git@github.com:mfgering/dawson_docs.git
